@@ -6,7 +6,7 @@ _Docker images implementing Transport Layer Security (TLS) -  Trust On First Use
 ```sh
 $ docker run \
   --rm \
-  enteee/tls-tofu
+  ncmd/tls-tofu
 ```
 
 ## Environment Variables
